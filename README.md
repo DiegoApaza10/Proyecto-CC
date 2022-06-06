@@ -1,8 +1,9 @@
-# Proyecto-CC
+# <h1 align="center">Proyecto Final-CC</h1>
 
-Proyecto de Videojuego
+<h3 align="center">Proyecto de Videojuego
 Para el curso de Ciencia de la Computacion II
-Universidad Nacional de San Agustin de Arequipa
+</br> Universidad Nacional de San Agustin de Arequipa </h3>
 
 ## Detalles del juego
-- 
+- 🕹 Videojuego en Plataforma 2D.
+- 👥 Multiplayer.
